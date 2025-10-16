@@ -1,0 +1,10 @@
+ultralytics
+ray[tune]
+kagglehub
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+Pillow
+tqdm
